@@ -30,3 +30,26 @@ Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
 Source of Icons : FontAwsome.com
 Source of Code : We took help from Developer Moziila
 
+## HOME PAGE
+<img src = "" alt = "img" />
+
+## Create Account/SIGN-UP page
+<img src = "" alt = "img" />
+
+## LOGIN PAGE
+<img src = "" />
+
+## PRODUCT PAGE
+<img src = "" />
+
+## SHOPPING BAG
+<img src = "" />
+
+## SHIPPING PAGE 
+<img src = "" />
+
+## PAYMENT PAGE
+<img src = "" />
+
+## THANK YOU PAGE 
+<img src = "" />
