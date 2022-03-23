@@ -34,22 +34,25 @@ Source of Code : We took help from Developer Moziila
 <img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(329).png" alt = "img" />
 
 ## Create Account/SIGN-UP page
-<img src = "" alt = "img" />
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(332).png" alt = "img" />
 
 ## LOGIN PAGE
-<img src = "" />
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(332).png" />
 
 ## PRODUCT PAGE
-<img src = "" />
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(330).png" />
 
-## SHOPPING BAG
-<img src = "" />
+## PRODUCT INDIVIDUAL
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(331).png" />
+
+## SHOPPING BAG /CART-PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(333).png" />
 
 ## SHIPPING PAGE 
-<img src = "" />
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(334).png" />
 
 ## PAYMENT PAGE
-<img src = "" />
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(335).png" />
 
-## THANK YOU PAGE 
+## THANK YOU  
 <img src = "" />
