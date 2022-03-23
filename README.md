@@ -30,8 +30,8 @@ Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
 Source of Icons : FontAwsome.com
 Source of Code : We took help from Developer Moziila
 
-## HOME PAGE
-<img src = "" alt = "img" />
+## LANDING PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss2/Screenshot%20(329).png" alt = "img" />
 
 ## Create Account/SIGN-UP page
 <img src = "" alt = "img" />
